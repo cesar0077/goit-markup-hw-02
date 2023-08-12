@@ -122,6 +122,21 @@ body {
   list-style: none;
 }
 
+.teams h4 {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.187;
+  letter-spacing: 0.03em;
+}
+
+.teams p {
+  color: var(--text-secondary-color);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.187;
+  letter-spacing: 0.03em;
+}
+
 .address-contact {
   background-color: var(--background-headerfooter-color);
 }
